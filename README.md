@@ -6,7 +6,7 @@
 [![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://narendra1003.github.io/narendrakumar.github.io/)
 [![Author](https://img.shields.io/badge/Author-Narendra%20Kumar-purple.svg)](https://www.linkedin.com/in/narendra-nikam-141228147)
 [![Latest Release](https://img.shields.io/badge/Latest%20Release-29%20Nov%202024-yellow.svg)](https://github.com/narendra1003/narendrakumar.github.io)
-<a href="https://github.com/vinodjangid07/vinodjangid07.github.io/blob/master/LICENSE"><img alt="License" src="http://img.shields.io/:license-mit-blue.svg?style=flat-square?style=flat-square" /></a>
+<a href="https://github.com/narendra1003/narendrakumar.github.io/blob/main/LICENSE"><img alt="License" src="http://img.shields.io/:license-mit-blue.svg?style=flat-square?style=flat-square" /></a>
 
 <img width="100%" alt="Portfolio Screenshot" src="https://github.com/narendra1003/narendrakumar.github.io/blob/main/src/png/Preview-card-min.png">
 
