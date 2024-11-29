@@ -1,9 +1,9 @@
 
-# <a href="https://narendrakumar.github.io/" target="_blank">My Portfolio</a>
+# <a href="https://narendra1003.github.io/narendrakumar.github.io/" target="_blank">My Portfolio</a>
 <p align="justify">This website showcases my Projects, Web presence, Story, Work experience, and contact information.</p>
 
 [![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/vinodjangid07/vinodjangid07.github.io)
-[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://vinodjangid07.github.io/)
+[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://narendra1003.github.io/narendrakumar.github.io/)
 [![Author](https://img.shields.io/badge/Author-Narendra%20Kumar-purple.svg)](https://www.linkedin.com/in/narendra-nikam-141228147)
 [![Latest Release](https://img.shields.io/badge/Latest%20Release-29%20Nov%202024-yellow.svg)](https://github.com/narendra1003/narendrakumar.github.io)
 <a href="https://github.com/vinodjangid07/vinodjangid07.github.io/blob/master/LICENSE"><img alt="License" src="http://img.shields.io/:license-mit-blue.svg?style=flat-square?style=flat-square" /></a>
